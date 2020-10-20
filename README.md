@@ -2,7 +2,7 @@
 
 Contains general information, tasks and code fragments of the work package 4.
 
-See [Projects/Work Package 4](https://github.com/orgs/stream-project/projects/1) for task management.
+See [Projects/Work Package 4](https://github.com/orgs/stream-project/projects/3) for task management.
 
 ## Architecture Overview
 
